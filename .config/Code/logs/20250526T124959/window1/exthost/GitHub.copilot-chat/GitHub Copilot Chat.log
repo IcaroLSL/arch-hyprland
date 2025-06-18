@@ -1,0 +1,120 @@
+2025-05-26 12:50:28.894 [info] Using the Electron fetcher.
+2025-05-26 12:50:28.894 [info] Initializing Git extension service.
+2025-05-26 12:50:28.894 [info] Successfully activated the vscode.git extension.
+2025-05-26 12:50:28.894 [info] Enablement state of the vscode.git extension: true.
+2025-05-26 12:50:28.894 [info] Successfully registered Git commit message provider.
+2025-05-26 12:50:32.416 [warning] GitHub login failed
+2025-05-26 12:50:32.430 [info] copilot token chat_enabled: undefined, sku: 
+2025-05-26 12:50:32.433 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at lE.waitForChatEnabled (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:441:18705)
+    at lE.run (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:441:18589)
+    at D4.askToUpgradeAuthPermissions (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:441:17960): Failed to get copilot token
+2025-05-26 12:50:32.433 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2025-05-26 12:50:32.433 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 12:50:32.433 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-26 12:50:32.433 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 12:50:32.433 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at t (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3106)
+    at YL._registerEmbeddings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3605)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at Hb.waitForActivationBlockers (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:2184)
+    at /home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:2382:7090
+    at tln (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:2382:6903)
+    at Nb.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:13382)
+    at Nb.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:13345)
+    at Nb.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:12801)
+2025-05-26 12:50:32.434 [info] activationBlocker from 'languageModelAccess' took for 3506ms
+2025-05-26 12:50:33.230 [warning] GitHub login failed
+2025-05-26 12:50:33.240 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2025-05-26 12:50:33.240 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 12:50:33.240 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at t (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3106)
+2025-05-26 12:50:33.241 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 12:50:33.241 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-26 13:05:33.264 [warning] GitHub login failed
+2025-05-26 13:05:33.290 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 13:05:33.290 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-26 13:20:33.336 [warning] GitHub login failed
+2025-05-26 13:20:33.338 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 13:20:33.339 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-26 13:35:33.391 [warning] GitHub login failed
+2025-05-26 13:35:33.397 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 13:35:33.397 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-26 13:50:33.446 [warning] GitHub login failed
+2025-05-26 13:50:33.448 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 13:50:33.448 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-26 14:05:33.474 [warning] GitHub login failed
+2025-05-26 14:05:33.501 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 14:05:33.501 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-26 14:20:33.514 [warning] GitHub login failed
+2025-05-26 14:20:33.539 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 14:20:33.540 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-26 14:35:33.695 [warning] GitHub login failed
+2025-05-26 14:35:33.699 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-26 14:35:33.699 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/yoku/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)

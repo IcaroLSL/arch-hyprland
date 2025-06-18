@@ -1,0 +1,11 @@
+width = 500
+height = 280
+prompt = 
+show = drun
+hide-scroll = true
+orientation = vertical
+columns = 4
+key_expand = Tab
+show-icons = true
+allow-markup = true
+icon-theme = Papirus

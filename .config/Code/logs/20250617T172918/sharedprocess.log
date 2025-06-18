@@ -1,0 +1,63 @@
+2025-06-17 17:29:31.822 [info] ComputeTargetPlatform: linux-x64
+2025-06-17 17:29:43.001 [info] ComputeTargetPlatform: linux-x64
+2025-06-17 17:29:53.397 [info] Getting Manifest... github.copilot
+2025-06-17 17:29:53.433 [info] Getting Manifest... github.copilot-chat
+2025-06-17 17:29:53.433 [info] Getting Manifest... jakobhoeg.vscode-pokemon
+2025-06-17 17:29:53.433 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-06-17 17:29:53.433 [info] Getting Manifest... ms-python.python
+2025-06-17 17:29:53.439 [info] Getting Manifest... ms-python.vscode-pylance
+2025-06-17 17:29:53.439 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2025-06-17 17:29:54.486 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoku/.vscode/extensions/extensions.json","path":"/home/yoku/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-17 17:29:54.492 [info] Installing extension: github.copilot {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoku/.vscode/extensions/extensions.json","path":"/home/yoku/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-17 17:29:54.606 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoku/.vscode/extensions/extensions.json","path":"/home/yoku/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-17 17:29:54.636 [info] Installing extension: jakobhoeg.vscode-pokemon {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoku/.vscode/extensions/extensions.json","path":"/home/yoku/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-17 17:29:54.800 [info] Installing extension: ms-vscode-remote.remote-containers {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoku/.vscode/extensions/extensions.json","path":"/home/yoku/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-17 17:29:54.807 [info] Installing extension: ms-azuretools.vscode-docker {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoku/.vscode/extensions/extensions.json","path":"/home/yoku/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-17 17:29:54.905 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoku/.vscode/extensions/extensions.json","path":"/home/yoku/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-17 17:29:57.632 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-06-17 17:29:57.702 [info] Getting Manifest... ms-python.python
+2025-06-17 17:29:58.395 [info] Installing extension: ms-azuretools.vscode-containers {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoku/.vscode/extensions/extensions.json","path":"/home/yoku/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-06-17 17:29:59.663 [info] Getting Manifest... github.copilot
+2025-06-17 17:29:59.828 [info] Getting Manifest... ms-python.vscode-pylance
+2025-06-17 17:30:00.114 [info] Getting Manifest... ms-python.debugpy
+2025-06-17 17:30:02.344 [info] Getting Manifest... ms-python.debugpy
+2025-06-17 17:30:03.081 [info] Getting Manifest... github.copilot-chat
+2025-06-17 17:30:30.597 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Internal Code: 0. Executed: true. Duration: 25450ms.
+2025-06-17 17:30:33.549 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 28169ms.
+2025-06-17 17:30:33.619 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Internal Code: 0. Executed: true. Duration: 29599ms.
+2025-06-17 17:30:34.642 [info] Extracted extension to file:///home/yoku/.vscode/extensions/ms-azuretools.vscode-docker-2.0.0: ms-azuretools.vscode-docker
+2025-06-17 17:30:34.829 [info] Renamed to /home/yoku/.vscode/extensions/ms-azuretools.vscode-docker-2.0.0
+2025-06-17 17:30:36.074 [info] Marked extension as removed ms-azuretools.vscode-docker-1.29.6
+2025-06-17 17:30:36.855 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 25055ms.
+2025-06-17 17:30:38.412 [info] Extension signature verification result for jakobhoeg.vscode-pokemon: Success. Internal Code: 0. Executed: true. Duration: 33412ms.
+2025-06-17 17:30:38.682 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 22215ms.
+2025-06-17 17:30:39.473 [info] Extracted extension to file:///home/yoku/.vscode/extensions/ms-vscode-remote.remote-containers-0.417.0: ms-vscode-remote.remote-containers
+2025-06-17 17:30:39.562 [info] Renamed to /home/yoku/.vscode/extensions/ms-vscode-remote.remote-containers-0.417.0
+2025-06-17 17:30:39.667 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 26055ms.
+2025-06-17 17:30:39.799 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-06-17 17:30:39.816 [info] Marked extension as removed ms-vscode-remote.remote-containers-0.413.0
+2025-06-17 17:30:39.900 [info] Extracted extension to file:///home/yoku/.vscode/extensions/ms-azuretools.vscode-containers-2.0.3: ms-azuretools.vscode-containers
+2025-06-17 17:30:39.978 [info] Renamed to /home/yoku/.vscode/extensions/ms-azuretools.vscode-containers-2.0.3
+2025-06-17 17:30:40.127 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-06-17 17:30:40.127 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-06-17 17:30:44.783 [info] Extracted extension to file:///home/yoku/.vscode/extensions/github.copilot-chat-0.27.3: github.copilot-chat
+2025-06-17 17:30:44.818 [info] Renamed to /home/yoku/.vscode/extensions/github.copilot-chat-0.27.3
+2025-06-17 17:30:45.190 [info] Marked extension as removed github.copilot-chat-0.27.2
+2025-06-17 17:30:45.211 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-06-17 17:30:46.727 [info] Extracted extension to file:///home/yoku/.vscode/extensions/github.copilot-1.335.0: github.copilot
+2025-06-17 17:30:46.772 [info] Renamed to /home/yoku/.vscode/extensions/github.copilot-1.335.0
+2025-06-17 17:30:46.856 [info] Marked extension as removed github.copilot-1.323.0
+2025-06-17 17:30:46.957 [info] Extension installed successfully: github.copilot vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-06-17 17:30:47.822 [info] Extracted extension to file:///home/yoku/.vscode/extensions/jakobhoeg.vscode-pokemon-2.0.1: jakobhoeg.vscode-pokemon
+2025-06-17 17:30:48.141 [info] Renamed to /home/yoku/.vscode/extensions/jakobhoeg.vscode-pokemon-2.0.1
+2025-06-17 17:30:48.396 [info] Marked extension as removed jakobhoeg.vscode-pokemon-2.0.0
+2025-06-17 17:30:48.400 [info] Extension installed successfully: jakobhoeg.vscode-pokemon vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-06-17 17:30:53.350 [info] Extracted extension to file:///home/yoku/.vscode/extensions/ms-python.python-2025.8.0-linux-x64: ms-python.python
+2025-06-17 17:30:53.367 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 4574ms.
+2025-06-17 17:30:53.617 [info] Renamed to /home/yoku/.vscode/extensions/ms-python.python-2025.8.0-linux-x64
+2025-06-17 17:30:53.743 [info] Marked extension as removed ms-python.python-2025.6.1-linux-x64
+2025-06-17 17:30:53.758 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-06-17 17:31:08.915 [info] Extracted extension to file:///home/yoku/.vscode/extensions/ms-python.vscode-pylance-2025.6.1: ms-python.vscode-pylance
+2025-06-17 17:31:09.991 [info] Renamed to /home/yoku/.vscode/extensions/ms-python.vscode-pylance-2025.6.1
+2025-06-17 17:31:10.077 [info] Marked extension as removed ms-python.vscode-pylance-2025.5.1
+2025-06-17 17:31:10.146 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/yoku/.vscode/extensions/extensions.json

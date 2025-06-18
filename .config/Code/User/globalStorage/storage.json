@@ -1,0 +1,99 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "07d8dedbd5ec89e946fd0875677e6d06b531045552a2d0e298eec1ecf2db5fdd",
+    "telemetry.devDeviceId": "2255d92e-78aa-4b3d-953c-407dce9896cb",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1750192160162"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/yoku/hypr": "__default__profile__",
+            "file:///home/yoku/.config/hypr": "__default__profile__",
+            "file:///home/yoku/.config": "__default__profile__",
+            "file:///home/yoku/Documentos": "__default__profile__",
+            "file:///home/yoku/.config/waybar": "__default__profile__",
+            "file:///home/yoku/.cache/wal": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1750192160162": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/yoku/.config/Code/Backups/1750192160162",
+            "uiState": {
+                "mode": 1,
+                "x": 690,
+                "y": 46,
+                "width": 654,
+                "height": 700
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#2b2b2b",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#2b2b2b",
+            "editorBackground": "#2b2b2b",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#2b2b2b",
+            "sideBarBackground": "#2b2b2b",
+            "statusBarBackground": "#2b2b2b",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 221,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "8997f84ef5b264918d22947134cf7d6e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0235a2317b12c299ee80a86c409e3ddd": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "4d9408eb9b9009e757ac71d0d330ec11": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "8b618536d138138ee8a3e94c8da4d5a0": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7ed574a2adaa8bc4b31dfbaa3de53ae8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a62c707f237b9e5272836d5b09a4f36c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

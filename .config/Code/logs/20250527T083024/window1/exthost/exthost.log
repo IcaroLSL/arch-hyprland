@@ -1,0 +1,58 @@
+2025-05-27 08:30:31.602 [info] Extension host with pid 1052 started
+2025-05-27 08:30:31.602 [info] Skipping acquiring lock for /home/yoku/.config/Code/User/workspaceStorage/4d9408eb9b9009e757ac71d0d330ec11.
+2025-05-27 08:30:33.483 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-27 08:30:33.603 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-27 08:30:33.668 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2025-05-27 08:30:34.541 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-27 08:30:34.547 [info] ExtensionService#_doActivateExtension pixl-garden.BongoCat, startup: true, activationEvent: '*'
+2025-05-27 08:30:36.046 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-27 08:30:36.418 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-27 08:30:38.236 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-27 08:30:38.293 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-27 08:30:38.377 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-05-27 08:30:38.581 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-05-27 08:30:39.117 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 08:30:39.299 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'api', root cause: ms-vscode.cpptools
+2025-05-27 08:30:41.383 [info] Eager extensions activated
+2025-05-27 08:30:41.728 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:30:41.736 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:30:41.919 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:30:43.080 [info] ExtensionService#_doActivateExtension jakobhoeg.vscode-pokemon, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:30:43.114 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:30:43.441 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:30:43.499 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:30:43.519 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:30:44.315 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2025-05-27 08:30:51.714 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-27 08:30:59.185 [info] Extension host with pid 1369 started
+2025-05-27 08:30:59.185 [info] Skipping acquiring lock for /home/yoku/.config/Code/User/workspaceStorage/8b618536d138138ee8a3e94c8da4d5a0.
+2025-05-27 08:30:59.627 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-27 08:31:00.058 [error] Error: Stopping the server timed out
+    at /home/yoku/.vscode/extensions/ms-vscode.cpptools-1.25.3-linux-x64/dist/src/main.js:85474:23
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:516:9)
+    at Object.deactivate (/home/yoku/.vscode/extensions/ms-vscode.cpptools-1.25.3-linux-x64/dist/src/main.js:116957:5)
+    at async Promise.all (index 16)
+    at PJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9888)
+2025-05-27 08:31:00.058 [info] Extension host with pid 1052 exiting with code 0
+2025-05-27 08:31:00.177 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-05-27 08:31:00.426 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-27 08:31:00.665 [info] Eager extensions activated
+2025-05-27 08:31:00.951 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:00.972 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:01.111 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:01.830 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:01.874 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:02.327 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 08:31:02.359 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 08:31:02.520 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 08:31:02.759 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-27 08:31:08.386 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-05-27 08:31:08.730 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:09.549 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:10.220 [info] ExtensionService#_doActivateExtension jakobhoeg.vscode-pokemon, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:10.231 [info] ExtensionService#_doActivateExtension pixl-garden.BongoCat, startup: false, activationEvent: '*'
+2025-05-27 08:31:10.232 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 08:31:10.673 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2025-05-27 08:46:42.721 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-27 08:46:43.009 [info] Extension host with pid 1369 exiting with code 0

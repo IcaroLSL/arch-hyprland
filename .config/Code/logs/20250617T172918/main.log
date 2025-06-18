@@ -1,0 +1,14 @@
+2025-06-17 17:29:19.726 [info] update#setState idle
+2025-06-17 17:29:50.356 [info] update#setState checking for updates
+2025-06-17 17:30:08.942 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/848b80aeb52026648a8ff9f7c45a9b0a80641e2e - error undefined net::ERR_TIMED_OUT
+2025-06-17 17:30:08.947 [error] update#isLatestVersion(): failed to check for updates
+2025-06-17 17:30:08.949 [error] Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:524:28)
+2025-06-17 17:30:21.023 [error] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/848b80aeb52026648a8ff9f7c45a9b0a80641e2e?bg=true - error undefined net::ERR_TIMED_OUT
+2025-06-17 17:30:21.027 [error] Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:524:28)
+2025-06-17 17:30:21.028 [info] update#setState idle
+2025-06-17 17:34:39.677 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5664]: crashed with code 15 and reason 'killed'
+2025-06-17 17:34:39.767 [info] Extension host with pid 5663 exited with code: 0, signal: unknown.

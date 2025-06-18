@@ -1,0 +1,5 @@
+2025-05-26 12:06:05.360 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 12:06:10.189 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 12:06:47.539 [info] Uninstalling extension from the profile: vadimcn.vscode-lldb@1.11.4 vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-05-26 12:06:47.781 [info] Marked extension as removed vadimcn.vscode-lldb-1.11.4
+2025-05-26 12:06:48.394 [info] Successfully uninstalled extension from the profile vadimcn.vscode-lldb@1.11.4 vscode-userdata:/home/yoku/.vscode/extensions/extensions.json

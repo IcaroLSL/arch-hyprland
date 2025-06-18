@@ -1,0 +1,26 @@
+2025-05-27 08:30:48.864 [info] [certificates] Removed 1 expired certificates
+2025-05-27 08:30:59.735 [error] [default] Error sending telemetry FetchError: getaddrinfo EAI_AGAIN copilot-telemetry.githubusercontent.com
+    at fetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at UB.fetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo',
+  vslsStack: [ CallSite {}, CallSite {}, CallSite {}, CallSite {} ]
+}
+2025-05-27 08:31:13.781 [info] [certificates] Removed 1 expired certificates
+2025-05-27 08:31:31.802 [error] [default] Error sending telemetry FetchError: getaddrinfo EAI_AGAIN copilot-telemetry.githubusercontent.com
+    at fetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at UB.fetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo',
+  vslsStack: [ CallSite {}, CallSite {}, CallSite {}, CallSite {} ]
+}

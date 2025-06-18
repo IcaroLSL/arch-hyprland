@@ -1,0 +1,61 @@
+* {
+    font-family: "FontAwesome", "Symbols Nerd Font", sans-serif;
+    border: none;
+    border-radius: 0;
+    /* font-family: "Ubuntu", "Cantarell", sans-serif; */
+    font-size: 14px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: rgba(40, 42, 54, 0.9);
+    color: #f8f8f2;
+    transition-property: background-color;
+    transition-duration: .5s;
+}
+
+#workspaces button {
+    padding: 0 10px;
+    background: transparent;
+    color: #f8f8f2;
+    border-bottom: 3px solid transparent;
+}
+
+#workspaces button.focused {
+    background: #6272a4;
+    border-bottom: 3px solid #f8f8f2;
+}
+
+#workspaces button.urgent {
+    background-color: #ff5555;
+}
+
+#clock, #battery, #network, #pulseaudio, #tray {
+    padding: 0 10px;
+    margin: 0 4px;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#battery.charging {
+    color: #50fa7b;
+}
+
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: #000000;
+    }
+}
+
+#battery.critical:not(.charging) {
+    background: #ff5555;
+    color: #f8f8f2;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}

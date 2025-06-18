@@ -1,0 +1,13 @@
+2025-05-26 12:06:03.329 [info] Started local extension host with pid 2939.
+2025-05-26 12:06:08.232 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 12:06:08.755 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-26 12:06:13.106 [info] Auto updating outdated extensions. vadimcn.vscode-lldb
+2025-05-26 12:06:15.026 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-26 12:06:16.719 [info] [perf] Render performance baseline is 186ms
+2025-05-26 12:06:20.189 [error] [Extension Host] (node:2939) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-26 12:06:36.697 [info] Auto updating outdated extensions. vadimcn.vscode-lldb
+2025-05-26 12:35:07.272 [error] Error: listener failed
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1300:10189
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:1953
+    at async r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1807:12205)

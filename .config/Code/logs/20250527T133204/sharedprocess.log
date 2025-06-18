@@ -1,0 +1,9 @@
+2025-05-27 13:32:08.482 [error] Error: ENOENT: no such file or directory, access '/run/user/1000/wayland-0'
+    at async Object.access (node:internal/original-fs/promises:608:10)
+    at async D8 (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:116:9389)
+    at async Promise.all (index 1)
+    at async i3.n (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:116:39069)
+2025-05-27 13:32:09.140 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 13:32:10.293 [info] Marked extension as removed abusaidm.html-snippets-0.2.1
+2025-05-27 13:32:10.474 [info] Deleted marked for removal extension from disk abusaidm.html-snippets /home/yoku/.vscode/extensions/abusaidm.html-snippets-0.2.1
+2025-05-27 13:32:12.014 [info] ComputeTargetPlatform: linux-x64

@@ -1,0 +1,37 @@
+{
+  "layer": "top",
+  "position": "top",
+  "modules-left": ["custom/bateria", "network"],
+  "modules-center": ["custom/dia"],
+  "modules-right": ["clock"],
+  
+  "custom/bateria": {
+      "exec": "/home/yoku/.config/waybar/scripts/bateria",
+      "interval": 10,
+      "format": "{}",
+      "return-type": "json"
+  },
+  "network": {
+    "interface": "wlan0",
+    "format-wifi": "     {essid}  ({signalStrength}%)",
+    "format-ethernet": " Ethernet",
+    "format-disconnected": "睊 Sem conexão",
+    "tooltip": false,
+    "signal-icons": ["睊", "直", "盛", "益", "瘝"]
+  },
+
+    "exec": "/home/yoku/.config/waybar/scripts/dia",
+"custom/dia": {
+    "format": "{}",
+  "interval": 60,
+    "tooltip": true,
+  "return-type": "json",
+  }
+  "tooltip-format": "<tt>{tooltip}</tt>"
+
+
+  "clock": {
+    "format": "{:%H:%M}",
+    "tooltip": false
+  }
+}

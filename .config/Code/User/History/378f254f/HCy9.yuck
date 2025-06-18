@@ -1,0 +1,12 @@
+(defpoll battery-icon-path :interval "60s" "~/.config/eww/scripts/bateria")
+
+(defwidget bateria []
+  (image :path (battery-icon-path) :scale 0.5))
+
+(defwindow bateria
+  :monitor "0x07AA"
+  :geometry (geometry :x 10 :y 10 :width 20 :height 20)
+  :stacking "fg"
+  :anchor "top left"
+  :exclusive false
+  (bateria))

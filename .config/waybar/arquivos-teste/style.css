@@ -1,0 +1,15 @@
+* {
+  font-family: JetBrains Mono;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 0.747);
+  background-color: transparent;
+}
+
+#custom-bateria, #network {
+  padding: 0 10px;
+  font-size: 20px;
+}
+
+#clock {
+  padding: 0 10px;
+}

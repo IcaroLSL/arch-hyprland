@@ -1,0 +1,27 @@
+2025-05-26 12:50:01.297 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 33ms.
+2025-05-26 12:50:04.346 [info] Started local extension host with pid 7917.
+2025-05-26 12:50:10.979 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 12:50:11.573 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-26 12:50:18.277 [error] [Extension Host] (node:7917) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-26 12:50:18.689 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-26 12:50:21.375 [info] [perf] Render performance baseline is 55ms
+2025-05-26 12:50:30.676 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-26 12:50:30.707 [error] [Extension Host] Error: spawn docker ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-05-26 12:50:33.348 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-26 12:50:36.562 [info] Extension host (LocalProcess pid: 7917) is unresponsive.
+2025-05-26 12:50:40.280 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-26 12:50:43.205 [info] Extension host (LocalProcess pid: 7917) is responsive.
+2025-05-26 12:50:43.209 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-26 12:50:43.918 [warning] UNRESPONSIVE extension host: 'github.copilot' took 71.47077897758592% of 2232.76ms, saved PROFILE here: 'file:///tmp/exthost-4eb04b.cpuprofile'
+2025-05-26 13:02:57.902 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at Jd.getLineLength (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:266:4354)
+    at gne.reportIfInvalid (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:485:13488)
+    at PLe.reportIfInvalid (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:485:10836)
+    at vki.set (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:263:6852)
+    at uae.setSemanticTokens (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:263:11190)
+    at LFe.u (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:485:26529)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:485:24992

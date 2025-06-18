@@ -1,0 +1,21 @@
+Juros Simples                                                                                                                                                                               |
+                                                                                                                                                                                            |--> Empréstimos no curto prazo, compras parceladas no comércio...
+Juros simples são calculados somente sobre o VALOR INICIAL. Isso significa que o valor do juros NÃO SE ACUMULA ao longo do tempo, ou seja, os JUROS DE CADA PERÍODO SÃO SEMPRE IGUAIS.      |
+
+Fórmula: J = C . i . t
+J = juros
+C = capital
+i = taxa de juros
+t = tempo
+
+Fórmula do montante total: M = C + J
+M = montante
+C = capital
+J = juros
+
+
+
+Exemplo: Você empresta 1000 a um amigo, com juros simples de 2% ao mês por 3 meses, o que irá acontecer? (calculo do juros)
+    J = 1000 * 0,02 * 3
+    J = 60
+    Será cobrado ao 1060 desse amigo.

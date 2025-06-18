@@ -1,0 +1,8 @@
+[2025-05-26T15:50:30.014Z] Initializing configuration support...
+[2025-05-26T15:50:30.017Z] Internal initialization of dev container support package...
+[2025-05-26T15:50:30.014Z] Dev Containers 0.413.0 in VS Code 1.100.2 (848b80aeb52026648a8ff9f7c45a9b0a80641e2e).
+[2025-05-26T15:50:30.592Z] Start: Run: docker version --format {{json .}}
+[2025-05-26T15:50:30.654Z] Stop (62 ms): Run: docker version --format {{json .}}
+[2025-05-26T15:50:30.656Z] spawn docker ENOENT
+[2025-05-26T15:50:30.916Z] CLI host's PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+[2025-05-26T15:50:30.967Z] Stop (375 ms): Run: docker version --format {{json .}}

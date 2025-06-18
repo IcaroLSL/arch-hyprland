@@ -1,0 +1,22 @@
+2025-06-17 17:29:22.266 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 49ms.
+2025-06-17 17:29:26.834 [info] Started local extension host with pid 5663.
+2025-06-17 17:29:29.152 [info] ComputeTargetPlatform: linux-x64
+2025-06-17 17:29:36.474 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-06-17 17:29:38.754 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-17 17:29:45.883 [info] Extension host (LocalProcess pid: 5663) is unresponsive.
+2025-06-17 17:29:46.849 [info] Extension host (LocalProcess pid: 5663) is responsive.
+2025-06-17 17:29:50.366 [error] [Extension Host] (node:5663) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-17 17:29:52.374 [info] Auto updating outdated extensions. github.copilot, github.copilot-chat, jakobhoeg.vscode-pokemon, ms-azuretools.vscode-docker, ms-python.python, ms-python.vscode-pylance, ms-vscode-remote.remote-containers
+2025-06-17 17:30:06.227 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-06-17 17:30:14.030 [info] [perf] Render performance baseline is 249ms
+2025-06-17 17:30:40.280 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.deprecatedMaintainer'. This property is already registered.
+2025-06-17 17:30:40.287 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.emptyContinuationLine'. This property is already registered.
+2025-06-17 17:30:40.287 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.directiveCasing'. This property is already registered.
+2025-06-17 17:30:40.288 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionCasing'. This property is already registered.
+2025-06-17 17:30:40.291 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionCmdMultiple'. This property is already registered.
+2025-06-17 17:30:40.292 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionEntrypointMultiple'. This property is already registered.
+2025-06-17 17:30:40.297 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionHealthcheckMultiple'. This property is already registered.
+2025-06-17 17:30:40.297 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionJSONInSingleQuotes'. This property is already registered.
+2025-06-17 17:30:40.298 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionWorkdirRelative'. This property is already registered.
+2025-06-17 17:30:40.303 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.formatter.ignoreMultilineInstructions'. This property is already registered.

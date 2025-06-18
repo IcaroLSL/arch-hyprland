@@ -1,0 +1,13 @@
+(defpoll battery-icon-path :interval "10s" "~/.config/eww/scripts/bateria")
+
+(image :path (battery-icon-path) :width 32 :height 32)
+
+
+
+(defwindow bateria
+  :monitor 0 ;; <- Isso força o Eww a usar o primeiro monitor detectado
+  :geometry (geometry :x 10 :y 10 :width 40 :height 40)
+  :stacking "fg"
+  :anchor "top left"
+  :exclusive false
+  (bateria))

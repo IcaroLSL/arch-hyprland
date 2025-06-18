@@ -1,0 +1,13 @@
+(defpoll battery-icon-path :interval "10s" "~/.config/eww/scripts/bateria")
+
+(defwidget bateria []
+  (image :path "/home/yoku/.config/waybar/icons/batria_.png" :width 32 :height 32))
+
+
+(defwindow bateria
+  :monitor 0
+  :geometry (geometry :x 10 :y 10 :width 5 :height 5)
+  :stacking "fg"
+  :anchor "top left"
+  :exclusive false
+  (bateria))

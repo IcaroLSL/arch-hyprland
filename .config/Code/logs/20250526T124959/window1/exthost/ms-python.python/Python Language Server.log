@@ -1,0 +1,22 @@
+2025-05-26 12:50:45.012 [info] (Client) Pylance async client (2025.5.1) started with python extension (2025.6.1)
+2025-05-26 12:50:48.472 [info] [Info  - 12:50:48] (8390) Server root directory: file:///home/yoku/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-26 12:50:48.479 [info] [Info  - 12:50:48] (8390) Pylance language server 2025.5.1 (pyright version 1.1.400, commit b962ffc2) starting
+2025-05-26 12:50:48.480 [info] [Info  - 12:50:48] (8390) Starting service instance ".config" for workspace "/home/yoku/.config"
+2025-05-26 12:50:49.193 [info] [Info  - 12:50:49] (8390) Setting environmentName for service ".config": "3.13.3 (global)"
+2025-05-26 12:50:49.197 [info] [Info  - 12:50:49] (8390) Setting pythonPath for service ".config": "/bin/python"
+2025-05-26 12:50:49.203 [info] [Info  - 12:50:49] (8390) No include entries specified; assuming /home/yoku/.config
+2025-05-26 12:50:49.208 [info] [Info  - 12:50:49] (8390) Auto-excluding **/node_modules
+2025-05-26 12:50:49.213 [info] [Info  - 12:50:49] (8390) Auto-excluding **/__pycache__
+2025-05-26 12:50:49.214 [info] [Info  - 12:50:49] (8390) Auto-excluding **/.*
+2025-05-26 12:50:49.354 [info] [Info  - 12:50:49] (8390) Assuming Python version 3.13.3.final.0
+2025-05-26 12:50:50.425 [info] [Info  - 12:50:50] (8390) No source files found.
+2025-05-26 12:50:50.722 [info] [Info  - 12:50:50] (8390) Setting environmentName for service ".config": "3.13.3 (global)"
+2025-05-26 12:50:50.724 [info] [Info  - 12:50:50] (8390) Setting pythonPath for service ".config": "/bin/python"
+2025-05-26 12:50:50.735 [info] [Info  - 12:50:50] (8390) No include entries specified; assuming /home/yoku/.config
+2025-05-26 12:50:50.736 [info] [Info  - 12:50:50] (8390) Auto-excluding **/node_modules
+2025-05-26 12:50:50.739 [info] [Info  - 12:50:50] (8390) Auto-excluding **/__pycache__
+2025-05-26 12:50:50.742 [info] [Info  - 12:50:50] (8390) Auto-excluding **/.*
+2025-05-26 12:50:50.875 [info] [Info  - 12:50:50] (8390) Assuming Python version 3.13.3.final.0
+2025-05-26 12:50:51.618 [info] [Info  - 12:50:51] (8390) No source files found.
+2025-05-26 12:50:53.181 [info] [Info  - 12:50:53] (8390) BG: Priority queue background worker(2) root directory: file:///home/yoku/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-26 12:50:53.183 [info] [Info  - 12:50:53] (8390) BG: Priority queue background worker(2) started

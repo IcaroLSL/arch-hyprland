@@ -1,0 +1,15 @@
+2025-05-27 13:36:53.942 [info] Started local extension host with pid 3139.
+2025-05-27 13:36:54.033 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 13:36:54.413 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-27 13:36:56.151 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-27 13:37:00.970 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 13:37:02.309 [info] Extension host (LocalProcess pid: 3139) is unresponsive.
+2025-05-27 13:37:02.792 [info] Extension host (LocalProcess pid: 3139) is responsive.
+2025-05-27 13:37:04.835 [error] [Extension Host] (node:3139) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 13:37:10.063 [info] [perf] Render performance baseline is 133ms
+2025-05-27 13:37:19.342 [info] Extension host (LocalProcess pid: 3139) is unresponsive.
+2025-05-27 13:37:21.122 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-27 13:37:22.059 [info] Extension host (LocalProcess pid: 3139) is responsive.
+2025-05-27 13:37:22.061 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-27 13:37:22.270 [warning] UNRESPONSIVE extension host: 'github.copilot' took 84.83975307597987% of 802.618ms, saved PROFILE here: 'file:///tmp/exthost-d5256c.cpuprofile'

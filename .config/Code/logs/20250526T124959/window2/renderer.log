@@ -1,0 +1,4 @@
+2025-05-26 12:50:01.298 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 30ms.
+2025-05-26 12:50:02.372 [info] Started local extension host with pid 7878.
+2025-05-26 12:50:06.488 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 12:50:07.441 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

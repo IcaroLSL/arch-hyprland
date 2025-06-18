@@ -1,0 +1,90 @@
+2025-06-06 10:31:14.760 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 33ms.
+2025-06-06 10:31:16.167 [info] Started local extension host with pid 948.
+2025-06-06 10:31:16.561 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 10:31:18.161 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-06-06 10:31:22.303 [error] Error while getting the latest version for the extension batisteo.vscode-django from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.318 [error] Error while getting the latest version for the extension danielpinto8zz6.c-cpp-compile-run from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.333 [error] Error while getting the latest version for the extension donjayamanne.python-environment-manager from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.344 [error] Error while getting the latest version for the extension donjayamanne.python-extension-pack from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.352 [error] Error while getting the latest version for the extension dracula-theme.theme-dracula from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.360 [error] Error while getting the latest version for the extension github.copilot from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.370 [error] Error while getting the latest version for the extension github.copilot-chat from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.384 [error] Error while getting the latest version for the extension golang.go from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.409 [error] Error while getting the latest version for the extension jakobhoeg.vscode-pokemon from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.422 [error] Error while getting the latest version for the extension kevinrose.vsc-python-indent from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.429 [error] Error while getting the latest version for the extension ms-azuretools.vscode-docker from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.442 [error] Error while getting the latest version for the extension ms-python.debugpy from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.454 [error] Error while getting the latest version for the extension ms-python.python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.467 [error] Error while getting the latest version for the extension ms-python.vscode-pylance from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.473 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-containers from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.480 [error] Error while getting the latest version for the extension ms-vscode.cmake-tools from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.490 [error] Error while getting the latest version for the extension ms-vscode.cpptools from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.497 [error] Error while getting the latest version for the extension ms-vscode.cpptools-extension-pack from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.509 [error] Error while getting the latest version for the extension ms-vscode.cpptools-themes from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.523 [error] Error while getting the latest version for the extension ms-vscode.live-server from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.528 [error] Error while getting the latest version for the extension ms-vsliveshare.vsliveshare from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.533 [error] Error while getting the latest version for the extension njpwerner.autodocstring from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.545 [error] Error while getting the latest version for the extension pixl-garden.bongocat from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.553 [error] Error while getting the latest version for the extension pkief.material-icon-theme from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.558 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.566 [error] Error while getting the latest version for the extension shinymimikyu.pokemon-color from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.571 [error] Error while getting the latest version for the extension tal7aouy.icons from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.578 [error] Error while getting the latest version for the extension tomoki1207.pdf from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.587 [error] Error while getting the latest version for the extension twxs.cmake from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.590 [error] Error while getting the latest version for the extension visualstudioexptteam.intellicode-api-usage-examples from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.597 [error] Error while getting the latest version for the extension visualstudioexptteam.vscodeintellicode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.605 [error] Error while getting the latest version for the extension vscode-icons-team.vscode-icons from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.612 [error] Error while getting the latest version for the extension wholroyd.jinja from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-06 10:31:22.635 [error] Error while getting the latest version for the extension batisteo.vscode-django. Offline
+2025-06-06 10:31:22.642 [error] Error while getting the latest version for the extension danielpinto8zz6.c-cpp-compile-run. Offline
+2025-06-06 10:31:22.649 [error] Error while getting the latest version for the extension donjayamanne.python-environment-manager. Offline
+2025-06-06 10:31:22.654 [error] Error while getting the latest version for the extension donjayamanne.python-extension-pack. Offline
+2025-06-06 10:31:22.661 [error] Error while getting the latest version for the extension dracula-theme.theme-dracula. Offline
+2025-06-06 10:31:22.665 [error] Error while getting the latest version for the extension github.copilot. Offline
+2025-06-06 10:31:22.669 [error] Error while getting the latest version for the extension github.copilot-chat. Offline
+2025-06-06 10:31:22.670 [error] Error while getting the latest version for the extension golang.go. Offline
+2025-06-06 10:31:22.677 [error] Error while getting the latest version for the extension jakobhoeg.vscode-pokemon. Offline
+2025-06-06 10:31:22.687 [error] Error while getting the latest version for the extension kevinrose.vsc-python-indent. Offline
+2025-06-06 10:31:22.691 [error] Error while getting the latest version for the extension ms-azuretools.vscode-docker. Offline
+2025-06-06 10:31:22.696 [error] Error while getting the latest version for the extension ms-python.debugpy. Offline
+2025-06-06 10:31:22.703 [error] Error while getting the latest version for the extension ms-python.python. Offline
+2025-06-06 10:31:22.709 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Offline
+2025-06-06 10:31:22.713 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-containers. Offline
+2025-06-06 10:31:22.721 [error] Error while getting the latest version for the extension ms-vscode.cmake-tools. Offline
+2025-06-06 10:31:22.727 [error] Error while getting the latest version for the extension ms-vscode.cpptools. Offline
+2025-06-06 10:31:22.735 [error] Error while getting the latest version for the extension ms-vscode.cpptools-extension-pack. Offline
+2025-06-06 10:31:22.736 [error] Error while getting the latest version for the extension ms-vscode.cpptools-themes. Offline
+2025-06-06 10:31:22.740 [error] Error while getting the latest version for the extension ms-vscode.live-server. Offline
+2025-06-06 10:31:22.744 [error] Error while getting the latest version for the extension ms-vsliveshare.vsliveshare. Offline
+2025-06-06 10:31:22.745 [error] Error while getting the latest version for the extension njpwerner.autodocstring. Offline
+2025-06-06 10:31:22.745 [error] Error while getting the latest version for the extension pixl-garden.bongocat. Offline
+2025-06-06 10:31:22.746 [error] Error while getting the latest version for the extension pkief.material-icon-theme. Offline
+2025-06-06 10:31:22.747 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Offline
+2025-06-06 10:31:22.748 [error] Error while getting the latest version for the extension shinymimikyu.pokemon-color. Offline
+2025-06-06 10:31:22.749 [error] Error while getting the latest version for the extension tal7aouy.icons. Offline
+2025-06-06 10:31:22.857 [error] Error while getting the latest version for the extension twxs.cmake. Offline
+2025-06-06 10:31:22.861 [error] Error while getting the latest version for the extension tomoki1207.pdf. Offline
+2025-06-06 10:31:22.866 [error] Error while getting the latest version for the extension visualstudioexptteam.vscodeintellicode. Offline
+2025-06-06 10:31:22.870 [error] Error while getting the latest version for the extension visualstudioexptteam.intellicode-api-usage-examples. Offline
+2025-06-06 10:31:22.878 [error] Error while getting the latest version for the extension wholroyd.jinja. Offline
+2025-06-06 10:31:22.879 [error] Error while getting the latest version for the extension vscode-icons-team.vscode-icons. Offline
+2025-06-06 10:31:24.714 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-06 10:31:25.909 [warning] Failed to fetch chat participant registry Offline
+2025-06-06 10:31:26.074 [info] [perf] Render performance baseline is 78ms
+2025-06-06 10:31:26.333 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1300:10062
+2025-06-06 10:31:28.714 [error] [Extension Host] (node:948) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-06 10:31:49.710 [error] [Extension Host] [default] Error sending telemetry FetchError: getaddrinfo EAI_AGAIN copilot-telemetry.githubusercontent.com
+    at fetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at UB.fetch (/home/yoku/.vscode/extensions/github.copilot-1.323.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo'
+}
+2025-06-06 10:36:25.914 [warning] Failed to fetch chat participant registry Offline
+2025-06-06 10:41:25.924 [warning] Failed to fetch chat participant registry Offline

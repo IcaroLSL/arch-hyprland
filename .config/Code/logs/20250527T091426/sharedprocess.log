@@ -1,0 +1,5 @@
+2025-05-27 09:14:35.341 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 09:14:39.936 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 09:15:08.372 [info] Uninstalling extension from the profile: abusaidm.html-snippets@0.2.1 vscode-userdata:/home/yoku/.vscode/extensions/extensions.json
+2025-05-27 09:15:08.903 [info] Marked extension as removed abusaidm.html-snippets-0.2.1
+2025-05-27 09:15:09.361 [info] Successfully uninstalled extension from the profile abusaidm.html-snippets@0.2.1 vscode-userdata:/home/yoku/.vscode/extensions/extensions.json

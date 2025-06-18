@@ -1,0 +1,17 @@
+2025-05-27 09:14:29.537 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 27ms.
+2025-05-27 09:14:29.537 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 21ms.
+2025-05-27 09:14:29.620 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 77ms.
+2025-05-27 09:14:32.593 [info] Started local extension host with pid 15537.
+2025-05-27 09:14:33.609 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 09:14:36.673 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-05-27 09:14:44.171 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 09:14:46.599 [info] Extension host (LocalProcess pid: 15537) is unresponsive.
+2025-05-27 09:14:48.381 [info] [perf] Render performance baseline is 228ms
+2025-05-27 09:14:50.133 [info] Extension host (LocalProcess pid: 15537) is responsive.
+2025-05-27 09:14:58.532 [error] [Extension Host] (node:15537) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 09:15:03.030 [info] Extension host (LocalProcess pid: 15537) is unresponsive.
+2025-05-27 09:15:04.944 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-27 09:15:05.227 [info] Extension host (LocalProcess pid: 15537) is responsive.
+2025-05-27 09:15:05.234 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-27 09:15:05.868 [warning] UNRESPONSIVE extension host: 'github.copilot' took 48.38876803470905% of 159.711ms, saved PROFILE here: 'file:///tmp/exthost-7c9439.cpuprofile'
